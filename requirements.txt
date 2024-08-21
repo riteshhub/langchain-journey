@@ -1,4 +1,10 @@
-langchain==0.2.14
-langchain-community==0.2.12
+langchain==0.2.2
+langchain-community
 pypdf==4.3.1
 bs4==0.0.2
+tiktoken==0.7.0
+InstructorEmbedding==1.0.1
+torch==2.4.0
+sentence_transformers==2.2.2
+chromadb==0.5.5
+lark==1.2.2
